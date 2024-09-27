@@ -1,0 +1,28 @@
+com.example.assigement3.app-jetified-core-ktx-1.13.1-0 /Users/rupendrapatel/.gradle/caches/transforms-3/0cd45c4cfe927df34477a1a0220457e8/transformed/jetified-core-ktx-1.13.1/res
+com.example.assigement3.app-jetified-core-1.0.0-1 /Users/rupendrapatel/.gradle/caches/transforms-3/18452fcd41b434a956b6c71a29ef4b12/transformed/jetified-core-1.0.0/res
+com.example.assigement3.app-core-runtime-2.2.0-2 /Users/rupendrapatel/.gradle/caches/transforms-3/18c74890f3f2943260df434de3dab84e/transformed/core-runtime-2.2.0/res
+com.example.assigement3.app-fragment-1.7.1-3 /Users/rupendrapatel/.gradle/caches/transforms-3/1db9024deeb0037342388e4600df625c/transformed/fragment-1.7.1/res
+com.example.assigement3.app-jetified-lifecycle-process-2.7.0-4 /Users/rupendrapatel/.gradle/caches/transforms-3/37e8d804cd9ecb872a1b6c2c7bc97e95/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.assigement3.app-jetified-window-java-1.2.0-5 /Users/rupendrapatel/.gradle/caches/transforms-3/4b87f095c58c763399c6d9e1cda75d47/transformed/jetified-window-java-1.2.0/res
+com.example.assigement3.app-jetified-savedstate-1.2.1-6 /Users/rupendrapatel/.gradle/caches/transforms-3/595804770b3c963a4b85840f8aec0379/transformed/jetified-savedstate-1.2.1/res
+com.example.assigement3.app-core-1.13.1-7 /Users/rupendrapatel/.gradle/caches/transforms-3/62f86daeeadfeb3bbc010fe9828e670f/transformed/core-1.13.1/res
+com.example.assigement3.app-lifecycle-runtime-2.7.0-8 /Users/rupendrapatel/.gradle/caches/transforms-3/8b930d6a118d4dd42c043e947ef20187/transformed/lifecycle-runtime-2.7.0/res
+com.example.assigement3.app-jetified-window-1.2.0-9 /Users/rupendrapatel/.gradle/caches/transforms-3/8f2892e9e054f74493e4c0889a0f5abc/transformed/jetified-window-1.2.0/res
+com.example.assigement3.app-lifecycle-viewmodel-2.7.0-10 /Users/rupendrapatel/.gradle/caches/transforms-3/b48bc205cbfcf92f9b366c88aa6650d3/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.assigement3.app-jetified-startup-runtime-1.1.1-11 /Users/rupendrapatel/.gradle/caches/transforms-3/b58ce8b8c6943ac3ad9d253c8afcee36/transformed/jetified-startup-runtime-1.1.1/res
+com.example.assigement3.app-jetified-annotation-experimental-1.4.0-12 /Users/rupendrapatel/.gradle/caches/transforms-3/bb6bf3f794efac4e265f07eb23ca805a/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.assigement3.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 /Users/rupendrapatel/.gradle/caches/transforms-3/be283c9050973e99dab63fe248fd538f/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.assigement3.app-lifecycle-livedata-core-2.7.0-14 /Users/rupendrapatel/.gradle/caches/transforms-3/c14b526c590534fd854fbf1712ef0eba/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.assigement3.app-jetified-lifecycle-livedata-core-ktx-2.7.0-15 /Users/rupendrapatel/.gradle/caches/transforms-3/d03ec922f84419a59e46b5641906e328/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.assigement3.app-lifecycle-livedata-2.7.0-16 /Users/rupendrapatel/.gradle/caches/transforms-3/dd5122742cc044dbde6c0ffc6ac05988/transformed/lifecycle-livedata-2.7.0/res
+com.example.assigement3.app-jetified-activity-1.8.1-17 /Users/rupendrapatel/.gradle/caches/transforms-3/e01fec845e87756c6d4d90fabd36b139/transformed/jetified-activity-1.8.1/res
+com.example.assigement3.app-jetified-tracing-1.2.0-18 /Users/rupendrapatel/.gradle/caches/transforms-3/f2244c208d0ea23ebb50197d9a4f1a82/transformed/jetified-tracing-1.2.0/res
+com.example.assigement3.app-jetified-profileinstaller-1.3.1-19 /Users/rupendrapatel/.gradle/caches/transforms-3/fc0ca02f9f5acd5c386b60c50cbb7f6a/transformed/jetified-profileinstaller-1.3.1/res
+com.example.assigement3.app-debug-20 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/android/app/src/debug/res
+com.example.assigement3.app-main-21 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/android/app/src/main/res
+com.example.assigement3.app-pngs-22 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/generated/res/pngs/debug
+com.example.assigement3.app-resValues-23 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/generated/res/resValues/debug
+com.example.assigement3.app-rs-24 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/generated/res/rs/debug
+com.example.assigement3.app-mergeDebugResources-25 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.assigement3.app-mergeDebugResources-26 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.assigement3.app-merged_res-27 /Users/rupendrapatel/Desktop/Flutter Training/Flutter_Assigment/Flutter_Module_3/assigement3/build/app/intermediates/merged_res/debug
